@@ -7,7 +7,7 @@ console.log(myString);
 const myBoolean = true;
 console.log(myBoolean);
 
-const myArray = [0, 5, 8, 20, 250];
+const myArray = [1, 5, 8, 20, 250];
 console.log(myArray);
 console.log(myArray[2]);
 
