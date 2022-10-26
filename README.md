@@ -2,11 +2,16 @@
 
 ## How to clone this repo
 
+### Install git (if not already installed)
+
 ```shell
 brew install git
+```
+
+### Clone the repo!
+```shell
 cd ~/code
 git clone https://github.com/benbooth493/nextgendevs.git
-cd nexgendevs
 ```
 
 And lets change to the git repositories directory
